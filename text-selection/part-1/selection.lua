@@ -13,3 +13,15 @@ map ( "v", "<S-down>", "<down>" )
 map ( "n", "<S-up>", "<S-v>k" )
 map ( "n", "<S-down>", "<S-v>j" )
 
+
+
+
+
+
+
+-- example
+
+
+
+
+
